@@ -1,3 +1,15 @@
+List of sportsbooks:
+sportsbooks = [
+    'PrizePicks',
+    'Caesars',
+    'DraftKings',
+    'FanDuel',
+    'BetUS',
+    'BetMGM',
+    'Stake',
+    'Fanatics',
+    'bet365'
+]
 How do I read the point spread?
 
 Perhaps the most common question newcomers have when they see sportsbook odds is, "What do the numbers mean?" While the plus and minus signs might look confusing at first, they are easily explained. Take the following listing you might see in a sportsbook:
