@@ -1,0 +1,200 @@
+How do I read the point spread?
+
+Perhaps the most common question newcomers have when they see sportsbook odds is, "What do the numbers mean?" While the plus and minus signs might look confusing at first, they are easily explained. Take the following listing you might see in a sportsbook:
+
+456 Cowboys
+457 Giants -3
+
+In this example, the Giants are three-point favorites vs. the Cowboys. The spread is essentially a mathematical formula used to bridge the talent gap between teams and incentivize potential bettors into considering both sides. The spread is a handicap that requires the favored team to win the game by an ascribed number of points in order for the bettor to win a wager on that team.
+
+So if you wish to wager on the Giants, you'd be giving up or "laying" three points with them. This means they would have to win by four or more to cover the spread and make your wager a winner.
+
+Those backing the Cowboys are betting on the underdog, and thus "taking" the points. Their tickets would read: Cowboys +3. This means in order for the wager to win, the Cowboys would need to lose the game by fewer than three points, or win outright.
+
+In the above example, the Giants winning by exactly three points would result in a push, and all wagers would be refunded.
+
+The number to the direct left of the teams is called the "rotation" number. This is simply the universal record-keeping system for sportsbooks to track bets on each team. When you place a wager, you give the sportsbook ticket writer the rotation number of the team you are selecting instead of announcing the team name.
+
+
+What is the over-under?
+
+In addition to picking a side against the point spread, bettors have the option of wagering on the over-under or "total." The total is the predicted number of points that will be scored in the contest. Oddsmakers create totals after taking into account the average of what both teams score and allow per game, along with other mitigating factors such as the venue or key injuries.
+
+For example, along with seeing the point spread on the betting menu, you will see a large number near the spread. It might look like this:
+
+456 Cowboys 46
+457 Giants -3
+
+You'll see the spread is almost always delineated with the minus symbol and spread number corresponding directly to the favored team. The over-under is usually noted on the same line where the underdog is listed, but with a bit of separation from the team name so that it is not confused with the point spread.
+
+In our example, 46 points is the posted total between the Cowboys and Giants. If you wish to wager on the total, you would pick the rotation number of either team and inform the sportsbook writer that your intention is to bet Over or Under only on the posted total.
+
+What is the vigorish, also known as juice?
+
+If you have dabbled at all in the sports wagering industry, you've likely heard the terms juice or vigorish thrown around quite a bit. The vigorish is essentially a tax the sportsbooks charge per wager. Their role is the primary factor in turning a profit for bookmakers, and also a crucial factor for bettors to learn and respect.
+
+The standard vigorish is 10 percent on each wager. In other words, you have to wager $110 to win $100 on your bets.
+
+The manner in which this benefits the sportsbook is easy to explain. Bettor A wagers $110 to win $100 on the Cowboys, while Bettor B wagers $110 to win $100 on the Giants. The sportsbook has taken $220 in wagers on this game, but will pay out $210 to the winner (the amount of the wager and the win combined). The $10 the sportsbook keeps is basically collected from the losing wager, and this is the most significant house edge it holds over the players.
+
+Most experienced customers have factored the vigorish into their wagers, and plan their bankrolls accordingly.
+
+
+What is the difference between the money line and point spread?
+
+In addition to wagering on either the point spread or total, bettors almost always have the option of placing a money-line wager. A money-line wager simply removes the point spread from the equation, and notes that you are wagering on a specific team to win the game.
+
+Money-line wagers don't carry the standard 10 percent vigorish -- $110 to win $100 – and instead simply involve a "price" on each team to win. The money-line price on each team is usually noted on the wagering menu to the far right of each team listed. A typical example would look like:
+
+456 Cowboys 46 +150
+457 Giants -3 -170
+
+In this example, the Giants are not only three-point favorites against the spread, they are -170 favorites to win straight up on the money line. So if you were confident they would win but it might be close, you would pay $170 to win $100 on the Giants to simply win.
+
+Conversely, money-line wagers on the underdog are popular because sportsbook customers can get a return that exceeds their original wager. In our example, the Cowboys are +150 underdogs to win outright. If you wish to place this wager, you would be passing up the option of taking the points and winning the bet if the Cowboys lose by fewer than three. They must win in order for your bet to cash, but the incentive is the handsome payout. In this example, a $100 wager would win $150 for a total return of $250, instead of the standard point-spread bet of $110 to win $100 with a return of $210.
+
+
+What is a parlay?
+
+Parlays are popular wagers among bettors because of the appeal of potentially winning a good sum with a minimal investment. It's a widespread belief that parlays are mostly done by novice bettors, but experienced handicappers are known to play them as well.
+
+Parlays involve the selection of two or more propositions on a single wager, and all of the teams must win for the bet to become a winner. For instance, if you pick five teams on a parlay and four cover the spread, the bet is a loser. Sportsbooks welcome parlays because of their significant house edge. For instance, the true odds on a two-team parlay are 4-to-1, but most betting outlets pay 2.6-to-1 on the wager. The true odds on a three-leg parlay are 9-to-1, though the standard payout is 6-to-1.
+
+Even so, the potential for winning more than the initial investment has proven irresistible to most sports bettors. If you put $100 on a two-team parlay and win, your profit will be $260 for a total return of $360.
+
+
+What is a teaser?
+
+Teasers are a popular variation of standard point-spread betting, as they allow the bettor to increase the point value for their selected team. For example, the six-point teaser is an extremely popular bet in the NFL, where a high percentage of spread outcomes fall very close to the sportsbook's numbers. To combat this uncertainty, teasers provide a discount on the spread.
+
+Let's say you believe two seven-point favorites will win their games outright but you are unsure whether they can cover the touchdown spread. Using a six-point teaser would reduce each team to a -1 favorite, meaning they only have to win by two points. Because of this advantage, teasers pay much lower odds than a parlay, but many handicappers still find them profitable. In the above example, a two-team NFL teaser is likely to carry a price of -120 (bet $120 to win $100), or steeper depending on the wagering outlet.
+
+
+What is a push?
+
+In a hypothetical NFL game, the Dallas Cowboys have closed as 3-point favorites against the Chicago Bears. On the game's final play, the Cowboys converted a 45-yard field goal to give Dallas a 27-24 win. Thus, the Cowboys didn't cover the 3-point spread and neither did the Bears as 3-point underdogs. That's a tie from a betting perspective, which in gambling jargon is called a "push." All bets on the spread would be returned. Many sportsbooks add a half-point (aka a hook) to any spread to avoid a push.
+
+
+What is a handle?
+
+A handle is the total action taken by a sportsbook on any game, regardless of type of wager. For example, on Super Bowl LIV between the Kansas City Chiefs and San Francisco 49ers, the various sportsbooks in Nevada took a record combined handle of $154.7 million in wagers. That was the second-highest ever for a Super Bowl in Nevada, trailing only the $158.6 million on the Eagles-Patriots Super Bowl in February 2018.
+
+
+What does “off the board” mean?
+
+Off the board means simply what it sounds like: a game/match has been taken off the board for betting purposes by a sportsbook for whatever reason. The usual culprit is a major injury or a pending trade/suspension. If a sportsbook isn't sure, for example, whether Tom Brady will play in a certain game for the Buccaneers, it's going to take that game off the board for as long as possible -- eventually, the books have to post something and just speculate on Brady's status -- because Brady is so important to the result and point spread. NBA games are notorious for being off the board because star players in that league sit out more than in any other due to rest or injury.
+
+
+What is a middle?
+
+It is actually possible to win a point spread bet on both the favorite and the underdog, and that is called betting the middle, or "middling." In a hypothetical NFL game, the New England Patriots opened early in the week as 7-point home favorites over the Pittsburgh Steelers. A Patriots backer likes that number and wagers New England -7 . However, by gameday the line grows to Patriots -10, and the bettor on the Patriots as 7-point favorites doesn't believe they will cover that bigger number. So, he bets Pittsburgh +10. Should New England win by 8 or 9 points, the bettor wins BOTH bets. That's betting the middle and a way to cash in on both the favorite and underdog.
+
+
+What is a pick-'em?
+
+In general, home-field advantage in the NFL is worth around 3 points. However, oddsmakers might find the visiting team to be slightly better than the home team. Thus, the spread could close as a pick-'em, which means there is no spread and neither team is favored. All a bettor has to do is pick the winning side. It's like the moneyline in that regard, only the moneyline prices in a pick-'em would be exactly the same (usually -110). It's fairly rare for NFL or NBA games to close at a pick'em but it does happen.
+
+
+What is straight up?
+
+When researching a game, bettors will often find two records listed for each team: SU & ATS. The latter means against the spread. The former is straight up, which simply means a win-loss record like you would see looking at the NFL or NBA standings. Betting results are not related to straight-up records. It's very possible for a team's straight-up record to be vastly different from its ATS record.
+
+
+What is a futures bet?
+
+Futures bets are wagers on a team's or player's predicted performance in a game or season. The most popular futures wagers are betting on a team to win a championship, betting over or under a team's win total, or betting on a player to win MVP or the Heisman Trophy. Futures odds usually do not stretch out more than a calendar year.
+
+
+What is a proposition bet?
+
+A proposition bet is usually called a prop bet. This is a wager on a given outcome in a game or match. For example, a popular prop bet on Super Bowl LIV between the Kansas City Chiefs and San Francisco 49ers was on which player would score the first touchdown. That paid out at +1400 (14-to-1) on a Patrick Mahomes rush. In a major event like the Super Bowl, there are hundreds upon hundreds of prop bets available. These are especially popular with live in-play betting because bettors can wager on props on a play-by-play basis.
+
+
+What does it mean to lay points?
+
+This is simply betting the favorite on the point spread. If the Los Angeles Lakers are seven-point favorites over the Boston Celtics and you wanted to bet on the Lakers at -7, you would be laying seven points.
+
+
+What is a bad beat?
+
+A bad beat is essentially a shocking loss on a bet due to a last-second score. For example, in the 1997 NFL season, the Pittsburgh Steelers were three point underdogs (+3) against the Jacksonville Jaguars. The Steelers trailed the Jaguars 23-21 and lined up to kick a 40 yard field goal on the final play of the game. Even if they had missed the field goal and lost 23-21, Steelers bettors would have won their +3 bet. Unfortunately for them, Jacksonville blocked the kick and returned it for a touchdown, winning the game 30-21 and crushing Steelers bettors.
+
+
+What does it mean to buy points?
+
+All sportsbooks will open a particular game with one point spread. However, there will eventually be an option to buy points. Let's say that Alabama is a three-point favorite over LSU. An LSU backer doesn't like his team getting only a field goal because he thinks his team will lose by three points and thus the game would end in a tie (a push) from a betting perspective. Said bettor buys a half-point to make it LSU +3.5. Now if the Tigers do lose by a field goal, the bet pays off. While betting a normal point spread offers a 100 percent return on a wager (minus the vig), each half-point bought costs the bettor more. For example, instead of risking $110 to win $100, you might be risking $120 to win $100.
+
+
+What is chalk?
+
+If you hear someone say they are betting chalk, that's simply the favored side. 
+
+
+What is a dog?
+
+If you hear someone say they are betting the dog, that's simply the underdog side.
+
+
+What is a hook?
+
+No one likes tie games. In sports betting, a tie on the spread is called a push. To avoid this possibility, many spreads include a half-point, like Bears -3.5 instead of Bears -3. That half-point is called the hook.
+
+
+What is a betting limit?
+
+A limit is the most money a sportsbook will take on a certain event. For major events like the Super Bowl or a national championship game, there are generally no limits on the spread or total. However, lower-tier football or basketball games can have a limit because the book wants to limit its liability. There's only so much homework even the sportsbooks can do on late-night Big West Conference basketball games, for example, so there's only so much money a sportsbook will take on a game like that. In the NFL, sportsbooks often take lower limits early in the week and bigger amounts closer to kickoff.
+
+
+What does it mean to be a lock?
+
+The word "lock" should never be used when referring to a bet. It's a dangerous word that means a sure bet. Is it a lock that Alabama will beat The Citadel in college football? Certainly, but miracles do happen. Remember Chaminade over Ralph Sampson and No. 1 Virginia in college basketball? On Nov. 26, 2019, Duke was a nearly 30-point home favorite in NCAA hoops to Stephen F. Austin and the Blue Devils lost outright.
+
+
+What is a sharp?
+
+A sharp is a professional bettor whom the sportsbooks know. The Average Joe is called the public. Lines and totals will change when the sharps swoop in because they spend big money and the oddsmakers respect their opinions.
+
+
+What is a square?
+
+A square is a newbie to sports betting. Sportsbooks love "square" money because the books usually win on that bet. "Squares" tend to not do any homework but bet with their heart -- simply on their favorite team, for example.
+
+
+What is a puckline in hockey?
+
+Money-line betting is the most common type in hockey because so many NHL games are decided by one goal. But sportsbooks also put out a puckline, which has one team at -1.5 goals and the other at +1.5. The moneyline favorite in an NHL game will be the team at -1.5 on the puckline. However, most times the favorite on the moneyline will return a plus-money payout at minus-1.5 on the puckline because it's hard to win by two goals. Example: the Chicago Blackhawks are -165 favorites (risk $165 to win $100) over the Detroit Red Wings (+150). On the puckline, the Blackhawks are -1.5 but at +145 (risk $100 to win $145), while the Red Wings are +1.5 at -165.
+
+
+What is a runline in baseball?
+
+Similar to the puckline, the runline acts as a spread in baseball. The favorite on the moneyline to win the game outright would be -1.5 on the runline, while the underdog on the moneyline would be +1.5. However, in many cases the moneyline favorite will return a plus-money payout at -1.5 on the runline because most games are decided by one run. If a team is massively favored on the moneyline, it also can be favored at -1.5 on the runline. Many books will offer alternate runlines of 2.5 or even 3.5 but the prices change dramatically.
+
+
+How do books handle draws in soccer?
+
+All soccer bets offer moneyline prices on each team to win and then also a draw; in some cases the draw will actually be favored. Players who wager that way only win if they pick the exact result. A draw 'no bet' takes the draw out of the equation. In this case, there would be moneyline prices on both teams to win only. A draw returns the wager and the only way a bettor loses is if the team he picked to win also loses in regulation. Draw 'no bets' only apply to regulation time.
+
+
+What is hedging?
+
+Hedging is placing wagers on both sides of a game or event to assure at least a small profit or minimal loss. This is often done with futures bets. For example, someone might have placed a $100 bet on Nick Bosa at +2000 to win Super Bowl MVP but then hedged by placing another $100 on Patrick Mahomes at +150. If Mahomes won, it would have returned $250 -- the $100 wager plus the $150 profit. Then subtract the $100 wagered on Bosa. So, a bettor wagered $200 overall and won $50. Hedging during games is also popular. Perhaps someone bet on the 49ers to win Super Bowl LIV. The Chiefs opened as favorites but would have been sizable underdogs down 20-10 in the fourth quarter. They still would have been dogs when it was 20-17. In retrospect, that would have been a good time to bet the Chiefs as a hedge against the original 49ers bet.
+
+
+What is a grand salami bet?
+
+A grand salami is a wager on the total number of runs in a given day in baseball or total goals scored on a day in hockey. For example, a typical NHL total is set at six, so a Grand Salami on a four-game schedule would probably be over/under 24 goals or right around that. Both the over and under would be given moneyline prices. Then there would also be a puckline spread on total goals scored by home teams -- likely -3.5 in this scenario -- and road teams (+3.5) and each of those options would have a moneyline price attached.
+
+
+What is a three-way moneyline?
+
+Soccer is the only major sport where there are still ties. Thus, a three-way moneyline simply is a price attached to each possible result. If Liverpool is facing Manchester United in the English Premier League, a three-way moneyline might look like this: Liverpool -115, Manchester United +330, draw +265. You either bet on one of the two teams to win or that it will end in a draw after regulation time. Only one result is a winner. No refunds if you bet one side to win and there is a draw, which is the advantage of a draw 'no bet.'
+
+
+What is a double chance bet in soccer?
+
+This is a soccer wager where you bet on two of three possible outcomes: Team A to win or there's a draw, Team B to win or there's a draw, or Team A or Team B to win (here, a tie would be a loser, whereas in draw 'no bet,' money is returned on a draw).
+
+
+What is half time/full time?
+
+This will be found in sports other than soccer, but is most prominently used there. Here, bettors simply wager on the exact result of the first half and the entire game. If Liverpool is facing Manchester United, someone could bet Liverpool to win the first half and the match (Liverpool/Liverpool at +200, for example). Or, even a tie at halftime and at end of game: Draw/Draw at +450. Or Liverpool/Draw, Draw/Liverpool, Manchester United/Liverpool and so on. Each combination is given a moneyline price.
